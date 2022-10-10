@@ -20,4 +20,4 @@ Here are some ideas to get you started:-->
 <div>
 <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kidotuti&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=0e75b6&style=flat" alt="codebucks27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kidotuti&label=Profile%20views&color=0e75b6&style=flat" alt="kidotuti" /> </p>
