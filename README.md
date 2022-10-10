@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 #### &#x1f4c8; My GitHub Stats
 
 <div>
-<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kidotuti&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> 
-<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kidotuti&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="185px" /><div>
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kidotuti&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> 
